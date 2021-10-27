@@ -1,0 +1,31 @@
+
+
+body{
+background-color:skyblue;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+    width:250px;
+    height: 80px;
+    background-color: aqua;
+    color: black;
+    font-size: medium;
+    
+    
+}
+
+p{
+    font-size: 35px;
+}
+
+button:hover {
+    background-color: rgb(36, 60, 124);
+}
